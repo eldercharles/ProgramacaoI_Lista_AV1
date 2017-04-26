@@ -10,12 +10,10 @@ package questoes.exercicio;
  * @author aluno
  */
 public class ExercicioDois {
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
-       System.out.println (.1 + .2 == .3);
-       
-       // Porque ele testa a condição, soma e verifica que é false.//
+         System.out.println (.1 + .2 == .3);
+         System.out.println("O resultado está falso porque a soma entre os numeros de ponto flutuante não é igual ao numero de ponto flutuante .3");
     }
+    
 }
